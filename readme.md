@@ -1,8 +1,6 @@
 
 # Infographics - Dotnet Core
 
-## Content
-
 ![](asp-net-core-pipeline/asp-net-core-release-dates.jpg)
 ![](asp-net-core-pipeline/asp-net-core-application.run.jpg)
 ![](asp-net-core-pipeline/asp-net-core-application-start.jpg)
