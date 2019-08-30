@@ -1,6 +1,3 @@
-
-# Infographics - Dotnet Core
-
 ![](schema-asp-net-core-mvc/Snímek1.png)
 
 ![](schema-asp-net-core-mvc/Snímek2.png)
