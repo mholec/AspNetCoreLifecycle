@@ -1,11 +1,34 @@
 
 # Infographics - Dotnet Core
 
-![](asp-net-core-pipeline/asp-net-core-release-dates.jpg)
-![](asp-net-core-pipeline/asp-net-core-application.run.jpg)
-![](asp-net-core-pipeline/asp-net-core-application-start.jpg)
-![](asp-net-core-pipeline/asp-net-core-mvc-routing.jpg)
-![](asp-net-core-pipeline/asp-net-core-middleware-pipleine.jpg)
-![](asp-net-core-pipeline/mvc-request-lifecycle-high-level.jpg)
-![](asp-net-core-pipeline/mvc-action-method-filter-execution.jpg)
-![](asp-net-core-pipeline/mvc-controller-init-action-method-execution.jpg)
+![](schema-asp-net-core-mvc/Snímek1.png)
+
+![](schema-asp-net-core-mvc/Snímek2.png)
+
+![](schema-asp-net-core-mvc/Snímek3.png)
+
+![](schema-asp-net-core-mvc/Snímek4.png)
+
+![](schema-asp-net-core-mvc/Snímek5.png)
+
+![](schema-asp-net-core-mvc/Snímek6.png)
+
+![](schema-asp-net-core-mvc/Snímek7.png)
+
+![](schema-asp-net-core-mvc/Snímek8.png)
+
+![](schema-asp-net-core-mvc/Snímek9.png)
+
+![](schema-asp-net-core-mvc/Snímek10.png)
+
+![](schema-asp-net-core-mvc/Snímek11.png)
+
+![](schema-asp-net-core-mvc/Snímek12.png)
+
+![](schema-asp-net-core-mvc/Snímek13.png)
+
+![](schema-asp-net-core-mvc/Snímek14.png)
+
+![](schema-asp-net-core-mvc/Snímek15.png)
+
+![](schema-asp-net-core-mvc/Snímek16.png)
