@@ -29,3 +29,26 @@
 ![](schema-asp-net-core-mvc/Snímek15.png)
 
 ![](schema-asp-net-core-mvc/Snímek16.png)
+
+![](schema-rest-api/Snímek1.png)
+
+![](schema-rest-api/Snímek2.png)
+
+![](schema-rest-api/Snímek3.png)
+
+![](schema-rest-api/Snímek4.png)
+
+![](schema-rest-api/Snímek5.png)
+
+![](schema-rest-api/Snímek6.png)
+
+![](schema-rest-api/Snímek7.png)
+
+![](schema-rest-api/Snímek8.png)
+
+![](schema-rest-api/Snímek9.png)
+
+![](schema-rest-api/Snímek10.png)
+
+
+
