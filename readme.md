@@ -1,4 +1,4 @@
-This repository contains updated infographics related to .NET Core application development. If you have a suggestions for other schemas or if you find a discrepancy, email me: mirek@miroslavholec.cz
+This repository contains updated infographics related to .NET Core application development. If you have a suggestions for other schemas or if you find a discrepancy, create an issue here or e-mail me: mirek@miroslavholec.cz
 
 
 ![](schema-asp-net-core-mvc/Snímek1.png)
