@@ -1,9 +1,9 @@
 This repository contains updated infographics related to .NET Core application development. If you have a suggestions for other schemas or if you find a discrepancy, create an issue here or e-mail me: mirek@miroslavholec.cz
 
 
-![](schema-asp-net-core-mvc/Snímek1.png)
+![](schema-asp-net-core-mvc/Snímek1.png?v=2)
 
-![](schema-asp-net-core-mvc/Snímek2.png)
+![](schema-asp-net-core-mvc/Snímek2.png?v=2)
 
 ![](schema-asp-net-core-mvc/Snímek3.png)
 
@@ -17,21 +17,21 @@ This repository contains updated infographics related to .NET Core application d
 
 ![](schema-asp-net-core-mvc/Snímek8.png)
 
-![](schema-asp-net-core-mvc/Snímek9.png)
+![](schema-asp-net-core-mvc/Snímek9.png?v=3)
 
-![](schema-asp-net-core-mvc/Snímek10.png)
+![](schema-asp-net-core-mvc/Snímek10.png?v=2)
 
-![](schema-asp-net-core-mvc/Snímek11.png)
+![](schema-asp-net-core-mvc/Snímek11.png?v=2)
 
 ![](schema-asp-net-core-mvc/Snímek12.png)
 
-![](schema-asp-net-core-mvc/Snímek13.png)
+![](schema-asp-net-core-mvc/Snímek13.png?v=2)
 
 ![](schema-asp-net-core-mvc/Snímek14.png)
 
-![](schema-asp-net-core-mvc/Snímek15.png)
+![](schema-asp-net-core-mvc/Snímek15.png?v=2)
 
-![](schema-asp-net-core-mvc/Snímek16.png)
+
 
 ![](schema-rest-api/Snímek1.png)
 
